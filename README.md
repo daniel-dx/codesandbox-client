@@ -275,3 +275,10 @@ Thanks goes to these wonderful people
 
 Thanks to [Chromatic](https://www.chromaticqa.com/) for providing the visual
 testing platform that helps us catch unexpected changes.
+
+
+## 如何本地调试 packages/app
+
+1. 一个命令行窗口运行：`yarn run start:common`
+2. 一个命令行窗口运行：`yarn run start:common`
+3. 通过 vscode 运行 `Launch App Program` (根据 .vscode/launch.json)
