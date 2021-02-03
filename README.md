@@ -280,5 +280,5 @@ testing platform that helps us catch unexpected changes.
 ## 如何本地调试 packages/app
 
 1. 一个命令行窗口运行：`yarn run start:common`
-2. 一个命令行窗口运行：`yarn run start:common`
+2. 一个命令行窗口运行：`yarn run start:components`
 3. 通过 vscode 运行 `Launch App Program` (根据 .vscode/launch.json)
